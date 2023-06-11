@@ -1,1 +1,1 @@
-# exoplanet-classifer
+# Exoplanet Classifer and Safronov Number
