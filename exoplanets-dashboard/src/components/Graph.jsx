@@ -6,9 +6,15 @@ const neptune = {
   // Turns values of specific key into an array 
   x: graph.filter(item => item["cluster"] === 1).map(item => item["Mass (in Earth Mass)"]), 
   y: graph.filter(item => item["cluster"] === 1).map(item => item["Radius (in Earth Radius)"]),
+  text: graph.filter(item => item["cluster"] === 1).map(item => item["Host Name"]),
   type: 'scatter',
   mode: 'markers',
-  marker: {color: '#63cdda'}
+  marker: {color: '#63cdda'}, 
+  hovertemplate:
+  "<b>%{text}</b><br>" +
+  "%{yaxis.title.text}: %{y:.0f}<br>" +
+  "%{xaxis.title.text}: %{x:.0f}<br>" +
+  "<extra></extra>"
 }
 
 const type1 = {
@@ -16,18 +22,30 @@ const type1 = {
   // Turns values of specific key into an array 
   x: graph.filter(item => item["cluster"] === 3).map(item => item["Mass (in Earth Mass)"]), 
   y: graph.filter(item => item["cluster"] === 3).map(item => item["Radius (in Earth Radius)"]),
+  text: graph.filter(item => item["cluster"] === 3).map(item => item["Host Name"]),
   type: 'scatter',
   mode: 'markers',
-  marker: {color: '#4b7bec'}
+  marker: {color: '#4b7bec'},
+  hovertemplate:
+  "<b>%{text}</b><br>" +
+  "%{yaxis.title.text}: %{y:.0f}<br>" +
+  "%{xaxis.title.text}: %{x:.0f}<br>" +
+  "<extra></extra>"
 }
 const type2 = {
   name: 'Gas Giant Type 2', 
   // Turns values of specific key into an array 
   x: graph.filter(item => item["cluster"] === 2).map(item => item["Mass (in Earth Mass)"]), 
   y: graph.filter(item => item["cluster"] === 2).map(item => item["Radius (in Earth Radius)"]),
+  text: graph.filter(item => item["cluster"] === 2).map(item => item["Host Name"]),
   type: 'scatter',
   mode: 'markers',
-  marker: {color: '#786fa6'}
+  marker: {color: '#786fa6'}, 
+  hovertemplate:
+  "<b>%{text}</b><br>" +
+  "%{yaxis.title.text}: %{y:.0f}<br>" +
+  "%{xaxis.title.text}: %{x:.0f}<br>" +
+  "<extra></extra>"
 }
 
 const type3= {
@@ -35,9 +53,15 @@ const type3= {
   // Turns values of specific key into an array 
   x: graph.filter(item => item["cluster"] === 0).map(item => item["Mass (in Earth Mass)"]), 
   y: graph.filter(item => item["cluster"] === 0).map(item => item["Radius (in Earth Radius)"]),
+  text: graph.filter(item => item["cluster"] === 0).map(item => item["Host Name"]),
   type: 'scatter',
   mode: 'markers',
-  marker: {color: '#e77f67'}
+  marker: {color: '#e77f67'}, 
+  hovertemplate:
+  "<b>%{text}</b><br>" +
+  "%{yaxis.title.text}: %{y:.0f}<br>" +
+  "%{xaxis.title.text}: %{x:.0f}<br>" +
+  "<extra></extra>"
 }
 
 export default function ScatterPlot() {
