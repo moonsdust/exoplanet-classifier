@@ -1,14 +1,3 @@
-/* @font-face {
-  font-family: 'aBoldFont';
-  src: local('aBoldFont'), 
-  url("./fonts/a-bold-font.ttf") format("truetype");
-}
-@font-face {
-  font-family: 'aRegularFont';
-  src: local('aRegularFont'), 
-  url("./fonts/a-regular-font.ttf") format("truetype");
-} */
-
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
