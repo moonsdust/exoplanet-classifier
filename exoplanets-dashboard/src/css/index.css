@@ -1,0 +1,61 @@
+/* @font-face {
+  font-family: 'aBoldFont';
+  src: local('aBoldFont'), 
+  url("./fonts/a-bold-font.ttf") format("truetype");
+}
+@font-face {
+  font-family: 'aRegularFont';
+  src: local('aRegularFont'), 
+  url("./fonts/a-regular-font.ttf") format("truetype");
+} */
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #242424;
+  background-color: #f8f9fa;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Text */
+
+h1 {
+  color: #114d4d;
+  font-size: 2.3em;
+  line-height: 1.1;
+}
+
+h2 {
+  color: #6e9987;
+}
+
+p, footer {
+  font-family: Inconsolata, monospace;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+a {
+  font-weight: 500;
+  color: #6e9987;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+/* Body */
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 90vh;
+}

@@ -1,0 +1,2318 @@
+[
+    {
+      "Host Name": "1RXS J160929.1-210524",
+      "Mass (in Earth Mass)": 2543,
+      "Radius (in Earth Radius)": 18.647,
+      "cluster": 2
+    },
+    {
+      "Host Name": "2MASS J02192210-3925225",
+      "Mass (in Earth Mass)": 4417.837,
+      "Radius (in Earth Radius)": 16.141,
+      "cluster": 2
+    },
+    {
+      "Host Name": "AU Mic",
+      "Mass (in Earth Mass)": 57.2094,
+      "Radius (in Earth Radius)": 4.203,
+      "cluster": 1
+    },
+    {
+      "Host Name": "BD+60 1417",
+      "Mass (in Earth Mass)": 4767.4261,
+      "Radius (in Earth Radius)": 14.684,
+      "cluster": 2
+    },
+    {
+      "Host Name": "CFHTWIR-Oph 98 A",
+      "Mass (in Earth Mass)": 2479.06157,
+      "Radius (in Earth Radius)": 20.849,
+      "cluster": 2
+    },
+    {
+      "Host Name": "COCONUTS-2 A",
+      "Mass (in Earth Mass)": 2002.31896,
+      "Radius (in Earth Radius)": 12.442,
+      "cluster": 3
+    },
+    {
+      "Host Name": "CT Cha",
+      "Mass (in Earth Mass)": 5403,
+      "Radius (in Earth Radius)": 24.66,
+      "cluster": 2
+    },
+    {
+      "Host Name": "CoRoT-1",
+      "Mass (in Earth Mass)": 327.35,
+      "Radius (in Earth Radius)": 16.7,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-10",
+      "Mass (in Earth Mass)": 883.5674,
+      "Radius (in Earth Radius)": 10.548,
+      "cluster": 3
+    },
+    {
+      "Host Name": "CoRoT-11",
+      "Mass (in Earth Mass)": 743.7222,
+      "Radius (in Earth Radius)": 15.984,
+      "cluster": 3
+    },
+    {
+      "Host Name": "CoRoT-12",
+      "Mass (in Earth Mass)": 291.438,
+      "Radius (in Earth Radius)": 16.14,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-13",
+      "Mass (in Earth Mass)": 415.704,
+      "Radius (in Earth Radius)": 9.92,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-14",
+      "Mass (in Earth Mass)": 2415.4,
+      "Radius (in Earth Radius)": 12.22,
+      "cluster": 2
+    },
+    {
+      "Host Name": "CoRoT-16",
+      "Mass (in Earth Mass)": 170.032,
+      "Radius (in Earth Radius)": 13.11,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-17",
+      "Mass (in Earth Mass)": 765.9703,
+      "Radius (in Earth Radius)": 11.433,
+      "cluster": 3
+    },
+    {
+      "Host Name": "CoRoT-2",
+      "Mass (in Earth Mass)": 1102.82,
+      "Radius (in Earth Radius)": 16.432,
+      "cluster": 3
+    },
+    {
+      "Host Name": "CoRoT-20",
+      "Mass (in Earth Mass)": 1344.4209,
+      "Radius (in Earth Radius)": 9.416,
+      "cluster": 3
+    },
+    {
+      "Host Name": "CoRoT-21",
+      "Mass (in Earth Mass)": 705.5826,
+      "Radius (in Earth Radius)": 14.572,
+      "cluster": 3
+    },
+    {
+      "Host Name": "CoRoT-22",
+      "Mass (in Earth Mass)": 12.2,
+      "Radius (in Earth Radius)": 4.88,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-23",
+      "Mass (in Earth Mass)": 889.9,
+      "Radius (in Earth Radius)": 11.77,
+      "cluster": 3
+    },
+    {
+      "Host Name": "CoRoT-24",
+      "Mass (in Earth Mass)": 5.7,
+      "Radius (in Earth Radius)": 3.7,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-25",
+      "Mass (in Earth Mass)": 85.81,
+      "Radius (in Earth Radius)": 12.11,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-26",
+      "Mass (in Earth Mass)": 184.3414,
+      "Radius (in Earth Radius)": 14.123,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-27",
+      "Mass (in Earth Mass)": 3302.11,
+      "Radius (in Earth Radius)": 11.287,
+      "cluster": 2
+    },
+    {
+      "Host Name": "CoRoT-28",
+      "Mass (in Earth Mass)": 153.82972,
+      "Radius (in Earth Radius)": 10.705,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-29",
+      "Mass (in Earth Mass)": 266.9772,
+      "Radius (in Earth Radius)": 10.088,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-3",
+      "Mass (in Earth Mass)": 6814.2752,
+      "Radius (in Earth Radius)": 11.321,
+      "cluster": 0
+    },
+    {
+      "Host Name": "CoRoT-30",
+      "Mass (in Earth Mass)": 921.707,
+      "Radius (in Earth Radius)": 11.31,
+      "cluster": 3
+    },
+    {
+      "Host Name": "CoRoT-31",
+      "Mass (in Earth Mass)": 266.9772,
+      "Radius (in Earth Radius)": 16.365,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-35",
+      "Mass (in Earth Mass)": 349.61125,
+      "Radius (in Earth Radius)": 18.831,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-36",
+      "Mass (in Earth Mass)": 216.12332,
+      "Radius (in Earth Radius)": 15.805,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-4",
+      "Mass (in Earth Mass)": 223.43449,
+      "Radius (in Earth Radius)": 13.339,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-7",
+      "Mass (in Earth Mass)": 4.07661,
+      "Radius (in Earth Radius)": 1.681,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-8",
+      "Mass (in Earth Mass)": 69.28694,
+      "Radius (in Earth Radius)": 6.938,
+      "cluster": 1
+    },
+    {
+      "Host Name": "CoRoT-9",
+      "Mass (in Earth Mass)": 266.97,
+      "Radius (in Earth Radius)": 11.77,
+      "cluster": 1
+    },
+    {
+      "Host Name": "EPIC 229004835",
+      "Mass (in Earth Mass)": 10.4,
+      "Radius (in Earth Radius)": 2.332,
+      "cluster": 1
+    },
+    {
+      "Host Name": "EPIC 248847494",
+      "Mass (in Earth Mass)": 4131.79,
+      "Radius (in Earth Radius)": 12.442,
+      "cluster": 2
+    },
+    {
+      "Host Name": "EPIC 249893012",
+      "Mass (in Earth Mass)": 8.75,
+      "Radius (in Earth Radius)": 1.95,
+      "cluster": 1
+    },
+    {
+      "Host Name": "GJ 3470",
+      "Mass (in Earth Mass)": 13.9,
+      "Radius (in Earth Radius)": 4.83,
+      "cluster": 1
+    },
+    {
+      "Host Name": "GJ 3473",
+      "Mass (in Earth Mass)": 1.86,
+      "Radius (in Earth Radius)": 1.264,
+      "cluster": 1
+    },
+    {
+      "Host Name": "GJ 357",
+      "Mass (in Earth Mass)": 1.84,
+      "Radius (in Earth Radius)": 1.217,
+      "cluster": 1
+    },
+    {
+      "Host Name": "GJ 3929",
+      "Mass (in Earth Mass)": 1.75,
+      "Radius (in Earth Radius)": 1.09,
+      "cluster": 1
+    },
+    {
+      "Host Name": "GJ 414 A",
+      "Mass (in Earth Mass)": 7.6,
+      "Radius (in Earth Radius)": 2.63,
+      "cluster": 1
+    },
+    {
+      "Host Name": "GJ 436",
+      "Mass (in Earth Mass)": 25.4,
+      "Radius (in Earth Radius)": 4.1,
+      "cluster": 1
+    },
+    {
+      "Host Name": "GJ 486",
+      "Mass (in Earth Mass)": 2.82,
+      "Radius (in Earth Radius)": 1.305,
+      "cluster": 1
+    },
+    {
+      "Host Name": "GJ 9827",
+      "Mass (in Earth Mass)": 4.89,
+      "Radius (in Earth Radius)": 1.571,
+      "cluster": 1
+    },
+    {
+      "Host Name": "GQ Lup",
+      "Mass (in Earth Mass)": 9852.73,
+      "Radius (in Earth Radius)": 51.561,
+      "cluster": 0
+    },
+    {
+      "Host Name": "GU Psc",
+      "Mass (in Earth Mass)": 3591.3,
+      "Radius (in Earth Radius)": 14.179,
+      "cluster": 2
+    },
+    {
+      "Host Name": "Gaia-1",
+      "Mass (in Earth Mass)": 533.95172,
+      "Radius (in Earth Radius)": 13.776,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Gaia-2",
+      "Mass (in Earth Mass)": 259.66581,
+      "Radius (in Earth Radius)": 14.818,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-12",
+      "Mass (in Earth Mass)": 63.88383,
+      "Radius (in Earth Radius)": 10.301,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-13",
+      "Mass (in Earth Mass)": 271.098,
+      "Radius (in Earth Radius)": 14.359,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-15",
+      "Mass (in Earth Mass)": 619.45067,
+      "Radius (in Earth Radius)": 12.016,
+      "cluster": 3
+    },
+    {
+      "Host Name": "HAT-P-19",
+      "Mass (in Earth Mass)": 92.802,
+      "Radius (in Earth Radius)": 12.689,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-26",
+      "Mass (in Earth Mass)": 22.2481,
+      "Radius (in Earth Radius)": 7.062,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-27",
+      "Mass (in Earth Mass)": 209.759,
+      "Radius (in Earth Radius)": 11.635,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-28",
+      "Mass (in Earth Mass)": 198.953,
+      "Radius (in Earth Radius)": 13.585,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-3",
+      "Mass (in Earth Mass)": 190.38017,
+      "Radius (in Earth Radius)": 9.976,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-35",
+      "Mass (in Earth Mass)": 335.62848,
+      "Radius (in Earth Radius)": 14.93,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-36",
+      "Mass (in Earth Mass)": 587.41341,
+      "Radius (in Earth Radius)": 14.314,
+      "cluster": 3
+    },
+    {
+      "Host Name": "HAT-P-37",
+      "Mass (in Earth Mass)": 378.2177,
+      "Radius (in Earth Radius)": 13.798,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-4",
+      "Mass (in Earth Mass)": 213.255,
+      "Radius (in Earth Radius)": 14.28,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-41",
+      "Mass (in Earth Mass)": 378.2177,
+      "Radius (in Earth Radius)": 22.978,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-43",
+      "Mass (in Earth Mass)": 210.395,
+      "Radius (in Earth Radius)": 14.359,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-45",
+      "Mass (in Earth Mass)": 273.3338,
+      "Radius (in Earth Radius)": 15.984,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-49",
+      "Mass (in Earth Mass)": 699.226,
+      "Radius (in Earth Radius)": 17.822,
+      "cluster": 3
+    },
+    {
+      "Host Name": "HAT-P-5",
+      "Mass (in Earth Mass)": 336.8998,
+      "Radius (in Earth Radius)": 14.056,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-51",
+      "Mass (in Earth Mass)": 98.84513,
+      "Radius (in Earth Radius)": 14.493,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-57",
+      "Mass (in Earth Mass)": 448.1403,
+      "Radius (in Earth Radius)": 19.504,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-6",
+      "Mass (in Earth Mass)": 337.85329,
+      "Radius (in Earth Radius)": 15.637,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-61",
+      "Mass (in Earth Mass)": 335.94463,
+      "Radius (in Earth Radius)": 10.077,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-63",
+      "Mass (in Earth Mass)": 195.14664,
+      "Radius (in Earth Radius)": 12.543,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-68",
+      "Mass (in Earth Mass)": 230.10892,
+      "Radius (in Earth Radius)": 12.016,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HAT-P-7",
+      "Mass (in Earth Mass)": 571.77617,
+      "Radius (in Earth Radius)": 16.421,
+      "cluster": 3
+    },
+    {
+      "Host Name": "HAT-P-8",
+      "Mass (in Earth Mass)": 430.34182,
+      "Radius (in Earth Radius)": 16.814,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-1",
+      "Mass (in Earth Mass)": 589.55,
+      "Radius (in Earth Radius)": 14.594,
+      "cluster": 3
+    },
+    {
+      "Host Name": "HATS-10",
+      "Mass (in Earth Mass)": 167.17858,
+      "Radius (in Earth Radius)": 10.862,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-11",
+      "Mass (in Earth Mass)": 270.1555,
+      "Radius (in Earth Radius)": 16.926,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-13",
+      "Mass (in Earth Mass)": 172.58169,
+      "Radius (in Earth Radius)": 13.585,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-14",
+      "Mass (in Earth Mass)": 340.0781,
+      "Radius (in Earth Radius)": 11.657,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-15",
+      "Mass (in Earth Mass)": 689.6911,
+      "Radius (in Earth Radius)": 12.386,
+      "cluster": 3
+    },
+    {
+      "Host Name": "HATS-2",
+      "Mass (in Earth Mass)": 486.2799,
+      "Radius (in Earth Radius)": 13.092,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-23",
+      "Mass (in Earth Mass)": 467.2101,
+      "Radius (in Earth Radius)": 20.849,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-27",
+      "Mass (in Earth Mass)": 168.4499,
+      "Radius (in Earth Radius)": 16.814,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-31",
+      "Mass (in Earth Mass)": 279.6904,
+      "Radius (in Earth Radius)": 18.383,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-37 A",
+      "Mass (in Earth Mass)": 31.46517,
+      "Radius (in Earth Radius)": 6.793,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-40",
+      "Mass (in Earth Mass)": 505.3497,
+      "Radius (in Earth Radius)": 17.71,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-42",
+      "Mass (in Earth Mass)": 597.5204,
+      "Radius (in Earth Radius)": 15.693,
+      "cluster": 3
+    },
+    {
+      "Host Name": "HATS-44",
+      "Mass (in Earth Mass)": 177.9848,
+      "Radius (in Earth Radius)": 11.96,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-49",
+      "Mass (in Earth Mass)": 112.19399,
+      "Radius (in Earth Radius)": 8.575,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-5",
+      "Mass (in Earth Mass)": 75.323,
+      "Radius (in Earth Radius)": 10.223,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-50",
+      "Mass (in Earth Mass)": 123.9537,
+      "Radius (in Earth Radius)": 12.666,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-52",
+      "Mass (in Earth Mass)": 711.9392,
+      "Radius (in Earth Radius)": 15.491,
+      "cluster": 3
+    },
+    {
+      "Host Name": "HATS-53",
+      "Mass (in Earth Mass)": 189.10885,
+      "Radius (in Earth Radius)": 15.02,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-58 A",
+      "Mass (in Earth Mass)": 327.3649,
+      "Radius (in Earth Radius)": 12.274,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-62",
+      "Mass (in Earth Mass)": 56.89157,
+      "Radius (in Earth Radius)": 11.825,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-64",
+      "Mass (in Earth Mass)": 305.1168,
+      "Radius (in Earth Radius)": 18.82,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-65",
+      "Mass (in Earth Mass)": 260.93843,
+      "Radius (in Earth Radius)": 16.825,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-69",
+      "Mass (in Earth Mass)": 183.38791,
+      "Radius (in Earth Radius)": 10.593,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-70",
+      "Mass (in Earth Mass)": 4100.007,
+      "Radius (in Earth Radius)": 15.513,
+      "cluster": 2
+    },
+    {
+      "Host Name": "HATS-74 A",
+      "Mass (in Earth Mass)": 464.02947,
+      "Radius (in Earth Radius)": 11.568,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-75",
+      "Mass (in Earth Mass)": 156.05375,
+      "Radius (in Earth Radius)": 9.909,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-8",
+      "Mass (in Earth Mass)": 46.08535,
+      "Radius (in Earth Radius)": 9.785,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HATS-9",
+      "Mass (in Earth Mass)": 261.57409,
+      "Radius (in Earth Radius)": 11.938,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 106315",
+      "Mass (in Earth Mass)": 12.6,
+      "Radius (in Earth Radius)": 2.44,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 110113",
+      "Mass (in Earth Mass)": 4.55,
+      "Radius (in Earth Radius)": 2.05,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 114082",
+      "Mass (in Earth Mass)": 2542.62726,
+      "Radius (in Earth Radius)": 11.209,
+      "cluster": 2
+    },
+    {
+      "Host Name": "HD 136352",
+      "Mass (in Earth Mass)": 4.72,
+      "Radius (in Earth Radius)": 1.664,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 137496",
+      "Mass (in Earth Mass)": 4.04,
+      "Radius (in Earth Radius)": 1.31,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 1397",
+      "Mass (in Earth Mass)": 131.89945,
+      "Radius (in Earth Radius)": 11.5,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 152843",
+      "Mass (in Earth Mass)": 11.56,
+      "Radius (in Earth Radius)": 3.41,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 183579",
+      "Mass (in Earth Mass)": 11.2,
+      "Radius (in Earth Radius)": 3.53,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 18599",
+      "Mass (in Earth Mass)": 25.5,
+      "Radius (in Earth Radius)": 2.7,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 202772 A",
+      "Mass (in Earth Mass)": 323.23311,
+      "Radius (in Earth Radius)": 17.318,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 203030",
+      "Mass (in Earth Mass)": 3496.11248,
+      "Radius (in Earth Radius)": 14.46,
+      "cluster": 2
+    },
+    {
+      "Host Name": "HD 20329",
+      "Mass (in Earth Mass)": 7.42,
+      "Radius (in Earth Radius)": 1.72,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 209458",
+      "Mass (in Earth Mass)": 217.704,
+      "Radius (in Earth Radius)": 15.233,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 213885",
+      "Mass (in Earth Mass)": 8.83,
+      "Radius (in Earth Radius)": 1.745,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 219134",
+      "Mass (in Earth Mass)": 4.33612,
+      "Radius (in Earth Radius)": 1.606,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 23472",
+      "Mass (in Earth Mass)": 8.32,
+      "Radius (in Earth Radius)": 2,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 2685",
+      "Mass (in Earth Mass)": 371.8611,
+      "Radius (in Earth Radius)": 16.141,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 5278",
+      "Mass (in Earth Mass)": 7.8,
+      "Radius (in Earth Radius)": 2.45,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 63454",
+      "Mass (in Earth Mass)": 126,
+      "Radius (in Earth Radius)": 12.31,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 63935",
+      "Mass (in Earth Mass)": 10.8,
+      "Radius (in Earth Radius)": 2.99,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 80653",
+      "Mass (in Earth Mass)": 5.72,
+      "Radius (in Earth Radius)": 1.613,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 95338",
+      "Mass (in Earth Mass)": 42.44,
+      "Radius (in Earth Radius)": 3.89,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HD 97658",
+      "Mass (in Earth Mass)": 8.88263,
+      "Radius (in Earth Radius)": 2.354,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HIP 116454",
+      "Mass (in Earth Mass)": 12.7132,
+      "Radius (in Earth Radius)": 2.466,
+      "cluster": 1
+    },
+    {
+      "Host Name": "HIP 65426",
+      "Mass (in Earth Mass)": 2860.47,
+      "Radius (in Earth Radius)": 16.814,
+      "cluster": 2
+    },
+    {
+      "Host Name": "HIP 75056 A",
+      "Mass (in Earth Mass)": 7945.71018,
+      "Radius (in Earth Radius)": 22.418,
+      "cluster": 0
+    },
+    {
+      "Host Name": "HN Peg",
+      "Mass (in Earth Mass)": 6991.57,
+      "Radius (in Earth Radius)": 11.777,
+      "cluster": 0
+    },
+    {
+      "Host Name": "HR 2562",
+      "Mass (in Earth Mass)": 9534.9,
+      "Radius (in Earth Radius)": 12.442,
+      "cluster": 0
+    },
+    {
+      "Host Name": "K2-105",
+      "Mass (in Earth Mass)": 30,
+      "Radius (in Earth Radius)": 3.59,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-108",
+      "Mass (in Earth Mass)": 59.4,
+      "Radius (in Earth Radius)": 5.28,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-131",
+      "Mass (in Earth Mass)": 6.3,
+      "Radius (in Earth Radius)": 1.651,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-132",
+      "Mass (in Earth Mass)": 157.32585,
+      "Radius (in Earth Radius)": 12.207,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-137",
+      "Mass (in Earth Mass)": 158.915,
+      "Radius (in Earth Radius)": 0.89,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-140",
+      "Mass (in Earth Mass)": 323.86877,
+      "Radius (in Earth Radius)": 12.274,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-141",
+      "Mass (in Earth Mass)": 5.08,
+      "Radius (in Earth Radius)": 1.51,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-146",
+      "Mass (in Earth Mass)": 5.6,
+      "Radius (in Earth Radius)": 2.25,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-232",
+      "Mass (in Earth Mass)": 123.00021,
+      "Radius (in Earth Radius)": 11.859,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-238",
+      "Mass (in Earth Mass)": 273.3338,
+      "Radius (in Earth Radius)": 14.572,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-24",
+      "Mass (in Earth Mass)": 19,
+      "Radius (in Earth Radius)": 5.4,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-261",
+      "Mass (in Earth Mass)": 67.69745,
+      "Radius (in Earth Radius)": 9.505,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-263",
+      "Mass (in Earth Mass)": 14.9,
+      "Radius (in Earth Radius)": 2.41,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-266",
+      "Mass (in Earth Mass)": 11.26782,
+      "Radius (in Earth Radius)": 3.3,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-280",
+      "Mass (in Earth Mass)": 37.1,
+      "Radius (in Earth Radius)": 7.5,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-287",
+      "Mass (in Earth Mass)": 100.11645,
+      "Radius (in Earth Radius)": 9.494,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-291",
+      "Mass (in Earth Mass)": 6.49,
+      "Radius (in Earth Radius)": 1.589,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-292",
+      "Mass (in Earth Mass)": 24.5,
+      "Radius (in Earth Radius)": 2.63,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-295",
+      "Mass (in Earth Mass)": 106.47305,
+      "Radius (in Earth Radius)": 10.054,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-3",
+      "Mass (in Earth Mass)": 6.47,
+      "Radius (in Earth Radius)": 2.25,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-329",
+      "Mass (in Earth Mass)": 82.6358,
+      "Radius (in Earth Radius)": 8.676,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-33",
+      "Mass (in Earth Mass)": 1144.188,
+      "Radius (in Earth Radius)": 5.76,
+      "cluster": 3
+    },
+    {
+      "Host Name": "K2-34",
+      "Mass (in Earth Mass)": 539.67534,
+      "Radius (in Earth Radius)": 15.435,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-36",
+      "Mass (in Earth Mass)": 4.3,
+      "Radius (in Earth Radius)": 1.43,
+      "cluster": 1
+    },
+    {
+      "Host Name": "K2-38",
+      "Mass (in Earth Mass)": 7.7,
+      "Radius (in Earth Radius)": 1.655,
+      "cluster": 1
+    },
+    {
+      "Host Name": "KELT-12",
+      "Mass (in Earth Mass)": 301.9385,
+      "Radius (in Earth Radius)": 19.952,
+      "cluster": 1
+    },
+    {
+      "Host Name": "KELT-14",
+      "Mass (in Earth Mass)": 380.12468,
+      "Radius (in Earth Radius)": 17.038,
+      "cluster": 1
+    },
+    {
+      "Host Name": "KELT-15",
+      "Mass (in Earth Mass)": 289.2253,
+      "Radius (in Earth Radius)": 16.175,
+      "cluster": 1
+    },
+    {
+      "Host Name": "KELT-17",
+      "Mass (in Earth Mass)": 416.3573,
+      "Radius (in Earth Radius)": 17.094,
+      "cluster": 1
+    },
+    {
+      "Host Name": "KELT-18",
+      "Mass (in Earth Mass)": 375.0394,
+      "Radius (in Earth Radius)": 17.598,
+      "cluster": 1
+    },
+    {
+      "Host Name": "KELT-2 A",
+      "Mass (in Earth Mass)": 485.32641,
+      "Radius (in Earth Radius)": 14.46,
+      "cluster": 1
+    },
+    {
+      "Host Name": "KELT-4 A",
+      "Mass (in Earth Mass)": 286.68266,
+      "Radius (in Earth Radius)": 19.044,
+      "cluster": 1
+    },
+    {
+      "Host Name": "KELT-6",
+      "Mass (in Earth Mass)": 136.661,
+      "Radius (in Earth Radius)": 13.372,
+      "cluster": 1
+    },
+    {
+      "Host Name": "KOI-1599",
+      "Mass (in Earth Mass)": 4.6,
+      "Radius (in Earth Radius)": 1.9,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-968",
+      "Mass (in Earth Mass)": 11.02,
+      "Radius (in Earth Radius)": 2.58,
+      "cluster": 1
+    },
+    {
+      "Host Name": "KOI-55",
+      "Mass (in Earth Mass)": 0.44,
+      "Radius (in Earth Radius)": 0.759,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-105",
+      "Mass (in Earth Mass)": 5.1,
+      "Radius (in Earth Radius)": 5.52,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-113",
+      "Mass (in Earth Mass)": 11.7,
+      "Radius (in Earth Radius)": 1.82,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-128",
+      "Mass (in Earth Mass)": 42.7,
+      "Radius (in Earth Radius)": 1.13,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-16",
+      "Mass (in Earth Mass)": 105.833,
+      "Radius (in Earth Radius)": 8.449,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-1647",
+      "Mass (in Earth Mass)": 483,
+      "Radius (in Earth Radius)": 11.874,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-1654",
+      "Mass (in Earth Mass)": 158.915,
+      "Radius (in Earth Radius)": 9.18,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-1661",
+      "Mass (in Earth Mass)": 17,
+      "Radius (in Earth Radius)": 3.87,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-1705",
+      "Mass (in Earth Mass)": 4.47,
+      "Radius (in Earth Radius)": 2.03,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-1708",
+      "Mass (in Earth Mass)": 1462.01067,
+      "Radius (in Earth Radius)": 9.96,
+      "cluster": 3
+    },
+    {
+      "Host Name": "Kepler-22",
+      "Mass (in Earth Mass)": 36,
+      "Radius (in Earth Radius)": 2.38,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-23",
+      "Mass (in Earth Mass)": 15.2,
+      "Radius (in Earth Radius)": 1.9,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-34",
+      "Mass (in Earth Mass)": 69.92,
+      "Radius (in Earth Radius)": 8.564,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-35",
+      "Mass (in Earth Mass)": 40.363,
+      "Radius (in Earth Radius)": 8.16,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-37",
+      "Mass (in Earth Mass)": 3.1783,
+      "Radius (in Earth Radius)": 0.296,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-38",
+      "Mass (in Earth Mass)": 122,
+      "Radius (in Earth Radius)": 4.3,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-39",
+      "Mass (in Earth Mass)": 6388.383,
+      "Radius (in Earth Radius)": 13.899,
+      "cluster": 0
+    },
+    {
+      "Host Name": "Kepler-409",
+      "Mass (in Earth Mass)": 6,
+      "Radius (in Earth Radius)": 1.199,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-41",
+      "Mass (in Earth Mass)": 174.8,
+      "Radius (in Earth Radius)": 9.98,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-413",
+      "Mass (in Earth Mass)": 67,
+      "Radius (in Earth Radius)": 4.347,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-414",
+      "Mass (in Earth Mass)": 3.5,
+      "Radius (in Earth Radius)": 1.71,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-43",
+      "Mass (in Earth Mass)": 982.0947,
+      "Radius (in Earth Radius)": 12.498,
+      "cluster": 3
+    },
+    {
+      "Host Name": "Kepler-453",
+      "Mass (in Earth Mass)": 16,
+      "Radius (in Earth Radius)": 6.204,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-46",
+      "Mass (in Earth Mass)": 1907,
+      "Radius (in Earth Radius)": 9.057,
+      "cluster": 3
+    },
+    {
+      "Host Name": "Kepler-47",
+      "Mass (in Earth Mass)": 636,
+      "Radius (in Earth Radius)": 3.03,
+      "cluster": 3
+    },
+    {
+      "Host Name": "Kepler-48",
+      "Mass (in Earth Mass)": 3.94,
+      "Radius (in Earth Radius)": 1.88,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-55",
+      "Mass (in Earth Mass)": 43,
+      "Radius (in Earth Radius)": 2.58,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-56",
+      "Mass (in Earth Mass)": 22.1,
+      "Radius (in Earth Radius)": 6.51,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-74",
+      "Mass (in Earth Mass)": 216.12,
+      "Radius (in Earth Radius)": 14.8,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-78",
+      "Mass (in Earth Mass)": 1.77,
+      "Radius (in Earth Radius)": 1.228,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-84",
+      "Mass (in Earth Mass)": 40,
+      "Radius (in Earth Radius)": 1.95,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-9",
+      "Mass (in Earth Mass)": 43.98767,
+      "Radius (in Earth Radius)": 7.74,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-93",
+      "Mass (in Earth Mass)": 4.54426,
+      "Radius (in Earth Radius)": 1.569,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Kepler-96",
+      "Mass (in Earth Mass)": 8.46,
+      "Radius (in Earth Radius)": 2.67,
+      "cluster": 1
+    },
+    {
+      "Host Name": "L 98-59",
+      "Mass (in Earth Mass)": 1.01,
+      "Radius (in Earth Radius)": 0.8,
+      "cluster": 1
+    },
+    {
+      "Host Name": "LHS 1140",
+      "Mass (in Earth Mass)": 6.65,
+      "Radius (in Earth Radius)": 1.43,
+      "cluster": 1
+    },
+    {
+      "Host Name": "LHS 1478",
+      "Mass (in Earth Mass)": 2.33,
+      "Radius (in Earth Radius)": 1.242,
+      "cluster": 1
+    },
+    {
+      "Host Name": "LHS 1678",
+      "Mass (in Earth Mass)": 0.35,
+      "Radius (in Earth Radius)": 0.696,
+      "cluster": 1
+    },
+    {
+      "Host Name": "LTT 1445 A",
+      "Mass (in Earth Mass)": 2.2,
+      "Radius (in Earth Radius)": 1.38,
+      "cluster": 1
+    },
+    {
+      "Host Name": "LTT 9779",
+      "Mass (in Earth Mass)": 29.32,
+      "Radius (in Earth Radius)": 4.72,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Lupus-TR-3",
+      "Mass (in Earth Mass)": 257.431,
+      "Radius (in Earth Radius)": 9.976,
+      "cluster": 1
+    },
+    {
+      "Host Name": "NGTS-10",
+      "Mass (in Earth Mass)": 687.14846,
+      "Radius (in Earth Radius)": 13.507,
+      "cluster": 3
+    },
+    {
+      "Host Name": "NGTS-12",
+      "Mass (in Earth Mass)": 66.10864,
+      "Radius (in Earth Radius)": 11.747,
+      "cluster": 1
+    },
+    {
+      "Host Name": "NGTS-13",
+      "Mass (in Earth Mass)": 1538.2972,
+      "Radius (in Earth Radius)": 12.801,
+      "cluster": 3
+    },
+    {
+      "Host Name": "NGTS-14 A",
+      "Mass (in Earth Mass)": 29.24036,
+      "Radius (in Earth Radius)": 4.977,
+      "cluster": 1
+    },
+    {
+      "Host Name": "NGTS-15",
+      "Mass (in Earth Mass)": 238.68913,
+      "Radius (in Earth Radius)": 12.33,
+      "cluster": 1
+    },
+    {
+      "Host Name": "NGTS-16",
+      "Mass (in Earth Mass)": 211.99155,
+      "Radius (in Earth Radius)": 14.572,
+      "cluster": 1
+    },
+    {
+      "Host Name": "NGTS-17",
+      "Mass (in Earth Mass)": 242.8209,
+      "Radius (in Earth Radius)": 13.899,
+      "cluster": 1
+    },
+    {
+      "Host Name": "NGTS-20",
+      "Mass (in Earth Mass)": 947.12865,
+      "Radius (in Earth Radius)": 11.994,
+      "cluster": 3
+    },
+    {
+      "Host Name": "NGTS-21",
+      "Mass (in Earth Mass)": 750.07504,
+      "Radius (in Earth Radius)": 14.908,
+      "cluster": 3
+    },
+    {
+      "Host Name": "NGTS-23",
+      "Mass (in Earth Mass)": 194.82881,
+      "Radius (in Earth Radius)": 14.202,
+      "cluster": 1
+    },
+    {
+      "Host Name": "NGTS-24",
+      "Mass (in Earth Mass)": 165.27077,
+      "Radius (in Earth Radius)": 13.608,
+      "cluster": 1
+    },
+    {
+      "Host Name": "NGTS-25",
+      "Mass (in Earth Mass)": 203.09235,
+      "Radius (in Earth Radius)": 11.467,
+      "cluster": 1
+    },
+    {
+      "Host Name": "NGTS-3 A",
+      "Mass (in Earth Mass)": 756.4354,
+      "Radius (in Earth Radius)": 16.589,
+      "cluster": 3
+    },
+    {
+      "Host Name": "NGTS-4",
+      "Mass (in Earth Mass)": 20.6,
+      "Radius (in Earth Radius)": 3.18,
+      "cluster": 1
+    },
+    {
+      "Host Name": "NGTS-8",
+      "Mass (in Earth Mass)": 295.5819,
+      "Radius (in Earth Radius)": 12.218,
+      "cluster": 1
+    },
+    {
+      "Host Name": "OGLE-TR-10",
+      "Mass (in Earth Mass)": 359.1479,
+      "Radius (in Earth Radius)": 14.011,
+      "cluster": 1
+    },
+    {
+      "Host Name": "OGLE-TR-111",
+      "Mass (in Earth Mass)": 174.799,
+      "Radius (in Earth Radius)": 11.781,
+      "cluster": 1
+    },
+    {
+      "Host Name": "OGLE-TR-132",
+      "Mass (in Earth Mass)": 371.8611,
+      "Radius (in Earth Radius)": 13.776,
+      "cluster": 1
+    },
+    {
+      "Host Name": "OGLE-TR-182",
+      "Mass (in Earth Mass)": 320.995,
+      "Radius (in Earth Radius)": 12.666,
+      "cluster": 1
+    },
+    {
+      "Host Name": "OGLE-TR-211",
+      "Mass (in Earth Mass)": 327.351,
+      "Radius (in Earth Radius)": 15.244,
+      "cluster": 1
+    },
+    {
+      "Host Name": "OGLE-TR-56",
+      "Mass (in Earth Mass)": 410.0007,
+      "Radius (in Earth Radius)": 14.572,
+      "cluster": 1
+    },
+    {
+      "Host Name": "OGLE2-TR-L9",
+      "Mass (in Earth Mass)": 1379.3822,
+      "Radius (in Earth Radius)": 18.091,
+      "cluster": 3
+    },
+    {
+      "Host Name": "PH1",
+      "Mass (in Earth Mass)": 169,
+      "Radius (in Earth Radius)": 6.18,
+      "cluster": 1
+    },
+    {
+      "Host Name": "POTS-1",
+      "Mass (in Earth Mass)": 734.16,
+      "Radius (in Earth Radius)": 10.548,
+      "cluster": 3
+    },
+    {
+      "Host Name": "Qatar-6",
+      "Mass (in Earth Mass)": 212.31044,
+      "Radius (in Earth Radius)": 11.904,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Qatar-8",
+      "Mass (in Earth Mass)": 117.91493,
+      "Radius (in Earth Radius)": 14.404,
+      "cluster": 1
+    },
+    {
+      "Host Name": "SWEEPS-11",
+      "Mass (in Earth Mass)": 3082.82,
+      "Radius (in Earth Radius)": 12.666,
+      "cluster": 2
+    },
+    {
+      "Host Name": "SWEEPS-4",
+      "Mass (in Earth Mass)": 1207.7,
+      "Radius (in Earth Radius)": 9.079,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TIC 172900988 Aa",
+      "Mass (in Earth Mass)": 837,
+      "Radius (in Earth Radius)": 11.3,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TIC 257060897",
+      "Mass (in Earth Mass)": 212.94503,
+      "Radius (in Earth Radius)": 16.701,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TIC 279401253",
+      "Mass (in Earth Mass)": 1951.46642,
+      "Radius (in Earth Radius)": 11.209,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-1107",
+      "Mass (in Earth Mass)": 1064.72516,
+      "Radius (in Earth Radius)": 14.572,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-1201",
+      "Mass (in Earth Mass)": 6.28,
+      "Radius (in Earth Radius)": 2.415,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1231",
+      "Mass (in Earth Mass)": 15.4,
+      "Radius (in Earth Radius)": 3.65,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1235",
+      "Mass (in Earth Mass)": 5.9,
+      "Radius (in Earth Radius)": 1.694,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-125",
+      "Mass (in Earth Mass)": 9.5,
+      "Radius (in Earth Radius)": 2.726,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1260",
+      "Mass (in Earth Mass)": 8.6,
+      "Radius (in Earth Radius)": 2.34,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1266",
+      "Mass (in Earth Mass)": 13.5,
+      "Radius (in Earth Radius)": 2.37,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1272",
+      "Mass (in Earth Mass)": 24.6,
+      "Radius (in Earth Radius)": 4.14,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1278",
+      "Mass (in Earth Mass)": 5879.82553,
+      "Radius (in Earth Radius)": 12.218,
+      "cluster": 0
+    },
+    {
+      "Host Name": "TOI-1296",
+      "Mass (in Earth Mass)": 94.71287,
+      "Radius (in Earth Radius)": 13.798,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1298",
+      "Mass (in Earth Mass)": 113.14691,
+      "Radius (in Earth Radius)": 9.427,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1333",
+      "Mass (in Earth Mass)": 753.2571,
+      "Radius (in Earth Radius)": 15.648,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-1338 A",
+      "Mass (in Earth Mass)": 33,
+      "Radius (in Earth Radius)": 6.85,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1422",
+      "Mass (in Earth Mass)": 9,
+      "Radius (in Earth Radius)": 3.96,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1444",
+      "Mass (in Earth Mass)": 3.87,
+      "Radius (in Earth Radius)": 1.397,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1468",
+      "Mass (in Earth Mass)": 3.21,
+      "Radius (in Earth Radius)": 1.28,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1516",
+      "Mass (in Earth Mass)": 1004.33777,
+      "Radius (in Earth Radius)": 15.244,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-163",
+      "Mass (in Earth Mass)": 387.7526,
+      "Radius (in Earth Radius)": 16.69,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1670",
+      "Mass (in Earth Mass)": 41.31769,
+      "Radius (in Earth Radius)": 2.06,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1685",
+      "Mass (in Earth Mass)": 3.78,
+      "Radius (in Earth Radius)": 1.7,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-169",
+      "Mass (in Earth Mass)": 251.40353,
+      "Radius (in Earth Radius)": 12.173,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1695",
+      "Mass (in Earth Mass)": 5.5,
+      "Radius (in Earth Radius)": 2.03,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1696",
+      "Mass (in Earth Mass)": 56.6,
+      "Radius (in Earth Radius)": 3.24,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1710",
+      "Mass (in Earth Mass)": 28.3,
+      "Radius (in Earth Radius)": 5.34,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-172",
+      "Mass (in Earth Mass)": 1722.6386,
+      "Radius (in Earth Radius)": 10.817,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-1749",
+      "Mass (in Earth Mass)": 57,
+      "Radius (in Earth Radius)": 1.39,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1759",
+      "Mass (in Earth Mass)": 10.8,
+      "Radius (in Earth Radius)": 3.14,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-178",
+      "Mass (in Earth Mass)": 1.5,
+      "Radius (in Earth Radius)": 1.152,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1789",
+      "Mass (in Earth Mass)": 222.47988,
+      "Radius (in Earth Radius)": 16.141,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-1820",
+      "Mass (in Earth Mass)": 731.00534,
+      "Radius (in Earth Radius)": 12.778,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-1937 A",
+      "Mass (in Earth Mass)": 638.8351,
+      "Radius (in Earth Radius)": 13.978,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-2025",
+      "Mass (in Earth Mass)": 1398.44499,
+      "Radius (in Earth Radius)": 12.52,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-2046",
+      "Mass (in Earth Mass)": 731.00534,
+      "Radius (in Earth Radius)": 16.141,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-2136",
+      "Mass (in Earth Mass)": 6.37,
+      "Radius (in Earth Radius)": 2.19,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2152",
+      "Mass (in Earth Mass)": 899.45439,
+      "Radius (in Earth Radius)": 14.359,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-2154",
+      "Mass (in Earth Mass)": 292.40213,
+      "Radius (in Earth Radius)": 16.287,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-216",
+      "Mass (in Earth Mass)": 200,
+      "Radius (in Earth Radius)": 11.29,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2180",
+      "Mass (in Earth Mass)": 875.61726,
+      "Radius (in Earth Radius)": 11.321,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-2184",
+      "Mass (in Earth Mass)": 206.58846,
+      "Radius (in Earth Radius)": 11.4,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2196",
+      "Mass (in Earth Mass)": 26,
+      "Radius (in Earth Radius)": 3.51,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2207",
+      "Mass (in Earth Mass)": 203.41018,
+      "Radius (in Earth Radius)": 11.153,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2236",
+      "Mass (in Earth Mass)": 502.16888,
+      "Radius (in Earth Radius)": 14.37,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2421",
+      "Mass (in Earth Mass)": 105.83686,
+      "Radius (in Earth Radius)": 10.368,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2497",
+      "Mass (in Earth Mass)": 1531.93292,
+      "Radius (in Earth Radius)": 11.142,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-2498",
+      "Mass (in Earth Mass)": 34.62,
+      "Radius (in Earth Radius)": 6.06,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-257",
+      "Mass (in Earth Mass)": 43.86032,
+      "Radius (in Earth Radius)": 7.163,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2583 A",
+      "Mass (in Earth Mass)": 79.4571,
+      "Radius (in Earth Radius)": 14.46,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2587 A",
+      "Mass (in Earth Mass)": 69.28659,
+      "Radius (in Earth Radius)": 12.072,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2589",
+      "Mass (in Earth Mass)": 1112.39942,
+      "Radius (in Earth Radius)": 12.106,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-2669",
+      "Mass (in Earth Mass)": 193.87533,
+      "Radius (in Earth Radius)": 19.728,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-269",
+      "Mass (in Earth Mass)": 8.8,
+      "Radius (in Earth Radius)": 2.77,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2803 A",
+      "Mass (in Earth Mass)": 309.8827,
+      "Radius (in Earth Radius)": 18.114,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-2977",
+      "Mass (in Earth Mass)": 533.95172,
+      "Radius (in Earth Radius)": 13.159,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-3331 A",
+      "Mass (in Earth Mass)": 721.47048,
+      "Radius (in Earth Radius)": 12.98,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-3540 A",
+      "Mass (in Earth Mass)": 375.03752,
+      "Radius (in Earth Radius)": 23.539,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-3688 A",
+      "Mass (in Earth Mass)": 311.47184,
+      "Radius (in Earth Radius)": 13.081,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-3693",
+      "Mass (in Earth Mass)": 324.18498,
+      "Radius (in Earth Radius)": 12.599,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-3757",
+      "Mass (in Earth Mass)": 85.3,
+      "Radius (in Earth Radius)": 12,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-3807",
+      "Mass (in Earth Mass)": 330.54154,
+      "Radius (in Earth Radius)": 18.495,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-3819",
+      "Mass (in Earth Mass)": 352.78953,
+      "Radius (in Earth Radius)": 13.137,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-3884",
+      "Mass (in Earth Mass)": 16.5,
+      "Radius (in Earth Radius)": 6,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-3912",
+      "Mass (in Earth Mass)": 129.03833,
+      "Radius (in Earth Radius)": 14.28,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-4087",
+      "Mass (in Earth Mass)": 232.01474,
+      "Radius (in Earth Radius)": 13.047,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-4137",
+      "Mass (in Earth Mass)": 457.67291,
+      "Radius (in Earth Radius)": 13.574,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-519",
+      "Mass (in Earth Mass)": 4449.62,
+      "Radius (in Earth Radius)": 11.994,
+      "cluster": 2
+    },
+    {
+      "Host Name": "TOI-5205",
+      "Mass (in Earth Mass)": 343,
+      "Radius (in Earth Radius)": 11.6,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-5542",
+      "Mass (in Earth Mass)": 419.5335,
+      "Radius (in Earth Radius)": 11.31,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-558",
+      "Mass (in Earth Mass)": 1147.36055,
+      "Radius (in Earth Radius)": 12.173,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-561",
+      "Mass (in Earth Mass)": 2,
+      "Radius (in Earth Radius)": 1.425,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-628",
+      "Mass (in Earth Mass)": 2011.8639,
+      "Radius (in Earth Radius)": 11.882,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-640",
+      "Mass (in Earth Mass)": 279.6904,
+      "Radius (in Earth Radius)": 19.851,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-733",
+      "Mass (in Earth Mass)": 5.72,
+      "Radius (in Earth Radius)": 1.992,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-763",
+      "Mass (in Earth Mass)": 9.79,
+      "Radius (in Earth Radius)": 2.28,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-778",
+      "Mass (in Earth Mass)": 878,
+      "Radius (in Earth Radius)": 15.4,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TOI-824",
+      "Mass (in Earth Mass)": 18.467,
+      "Radius (in Earth Radius)": 2.926,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-836",
+      "Mass (in Earth Mass)": 4.53,
+      "Radius (in Earth Radius)": 1.704,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-837",
+      "Mass (in Earth Mass)": 381.396,
+      "Radius (in Earth Radius)": 8.631,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-892",
+      "Mass (in Earth Mass)": 301.9385,
+      "Radius (in Earth Radius)": 11.994,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TOI-954",
+      "Mass (in Earth Mass)": 55.30242,
+      "Radius (in Earth Radius)": 9.55,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TRAPPIST-1",
+      "Mass (in Earth Mass)": 0.85,
+      "Radius (in Earth Radius)": 1.086,
+      "cluster": 1
+    },
+    {
+      "Host Name": "TrES-3",
+      "Mass (in Earth Mass)": 603.55917,
+      "Radius (in Earth Radius)": 14.684,
+      "cluster": 3
+    },
+    {
+      "Host Name": "TrES-4",
+      "Mass (in Earth Mass)": 157.00802,
+      "Radius (in Earth Radius)": 20.602,
+      "cluster": 1
+    },
+    {
+      "Host Name": "V1298 Tau",
+      "Mass (in Earth Mass)": 203.41018,
+      "Radius (in Earth Radius)": 9.729,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-100",
+      "Mass (in Earth Mass)": 638.8383,
+      "Radius (in Earth Radius)": 18.943,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-101",
+      "Mass (in Earth Mass)": 157.96151,
+      "Radius (in Earth Radius)": 15.805,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-107",
+      "Mass (in Earth Mass)": 38.1396,
+      "Radius (in Earth Radius)": 10.626,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-11",
+      "Mass (in Earth Mass)": 154.777,
+      "Radius (in Earth Radius)": 11.265,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-110",
+      "Mass (in Earth Mass)": 162.09249,
+      "Radius (in Earth Radius)": 13.877,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-114",
+      "Mass (in Earth Mass)": 562.24127,
+      "Radius (in Earth Radius)": 15.009,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-118",
+      "Mass (in Earth Mass)": 163.36462,
+      "Radius (in Earth Radius)": 16.141,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-13",
+      "Mass (in Earth Mass)": 158.915,
+      "Radius (in Earth Radius)": 15.771,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-140",
+      "Mass (in Earth Mass)": 775.5052,
+      "Radius (in Earth Radius)": 16.141,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-141",
+      "Mass (in Earth Mass)": 854.9627,
+      "Radius (in Earth Radius)": 13.563,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-147",
+      "Mass (in Earth Mass)": 87.40325,
+      "Radius (in Earth Radius)": 12.498,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-148",
+      "Mass (in Earth Mass)": 92.48853,
+      "Radius (in Earth Radius)": 8.093,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-15",
+      "Mass (in Earth Mass)": 175.12433,
+      "Radius (in Earth Radius)": 15.457,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-163",
+      "Mass (in Earth Mass)": 594.3421,
+      "Radius (in Earth Radius)": 13.473,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-165",
+      "Mass (in Earth Mass)": 209.13214,
+      "Radius (in Earth Radius)": 14.123,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-172",
+      "Mass (in Earth Mass)": 149.3801,
+      "Radius (in Earth Radius)": 17.598,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-173 A",
+      "Mass (in Earth Mass)": 1172.7927,
+      "Radius (in Earth Radius)": 13.451,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-18",
+      "Mass (in Earth Mass)": 3299.0754,
+      "Radius (in Earth Radius)": 13.036,
+      "cluster": 2
+    },
+    {
+      "Host Name": "WASP-185",
+      "Mass (in Earth Mass)": 311.4734,
+      "Radius (in Earth Radius)": 14.011,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-189",
+      "Mass (in Earth Mass)": 632.47853,
+      "Radius (in Earth Radius)": 18.147,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-20",
+      "Mass (in Earth Mass)": 120.13974,
+      "Radius (in Earth Radius)": 14.348,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-21",
+      "Mass (in Earth Mass)": 95.345,
+      "Radius (in Earth Radius)": 11.99,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-22",
+      "Mass (in Earth Mass)": 212.9461,
+      "Radius (in Earth Radius)": 13.787,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-29",
+      "Mass (in Earth Mass)": 77.55052,
+      "Radius (in Earth Radius)": 8.698,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-3",
+      "Mass (in Earth Mass)": 645.1949,
+      "Radius (in Earth Radius)": 15.872,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-32",
+      "Mass (in Earth Mass)": 1144.188,
+      "Radius (in Earth Radius)": 13.339,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-36",
+      "Mass (in Earth Mass)": 729.41985,
+      "Radius (in Earth Radius)": 14.908,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-38",
+      "Mass (in Earth Mass)": 858.1,
+      "Radius (in Earth Radius)": 12.3,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-39",
+      "Mass (in Earth Mass)": 88.9924,
+      "Radius (in Earth Radius)": 14.235,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-4",
+      "Mass (in Earth Mass)": 375.0394,
+      "Radius (in Earth Radius)": 14.908,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-44",
+      "Mass (in Earth Mass)": 279.05474,
+      "Radius (in Earth Radius)": 12.778,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-47",
+      "Mass (in Earth Mass)": 383,
+      "Radius (in Earth Radius)": 12.9,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-48",
+      "Mass (in Earth Mass)": 254.264,
+      "Radius (in Earth Radius)": 16.814,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-49",
+      "Mass (in Earth Mass)": 120.135,
+      "Radius (in Earth Radius)": 12.498,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-56",
+      "Mass (in Earth Mass)": 190.38017,
+      "Radius (in Earth Radius)": 12.24,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-57",
+      "Mass (in Earth Mass)": 204.68252,
+      "Radius (in Earth Radius)": 11.769,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-59",
+      "Mass (in Earth Mass)": 274.276,
+      "Radius (in Earth Radius)": 8.687,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-6",
+      "Mass (in Earth Mass)": 158.915,
+      "Radius (in Earth Radius)": 13.675,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-61",
+      "Mass (in Earth Mass)": 651.5515,
+      "Radius (in Earth Radius)": 13.899,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-64",
+      "Mass (in Earth Mass)": 388.07043,
+      "Radius (in Earth Radius)": 14.247,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-66",
+      "Mass (in Earth Mass)": 753.2571,
+      "Radius (in Earth Radius)": 15.581,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-68",
+      "Mass (in Earth Mass)": 343.2564,
+      "Radius (in Earth Radius)": 14.796,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-69",
+      "Mass (in Earth Mass)": 79.4575,
+      "Radius (in Earth Radius)": 11.848,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-70 A",
+      "Mass (in Earth Mass)": 187.512,
+      "Radius (in Earth Radius)": 13.047,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-72",
+      "Mass (in Earth Mass)": 459.58218,
+      "Radius (in Earth Radius)": 14.235,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-74",
+      "Mass (in Earth Mass)": 301.9385,
+      "Radius (in Earth Radius)": 17.486,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-77 A",
+      "Mass (in Earth Mass)": 560.33429,
+      "Radius (in Earth Radius)": 13.563,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-78",
+      "Mass (in Earth Mass)": 282.857,
+      "Radius (in Earth Radius)": 19.055,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-79",
+      "Mass (in Earth Mass)": 267.93069,
+      "Radius (in Earth Radius)": 20.4,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-8",
+      "Mass (in Earth Mass)": 807.2882,
+      "Radius (in Earth Radius)": 12.666,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WASP-83",
+      "Mass (in Earth Mass)": 95.349,
+      "Radius (in Earth Radius)": 11.657,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-84",
+      "Mass (in Earth Mass)": 220.565,
+      "Radius (in Earth Radius)": 10.559,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-90",
+      "Mass (in Earth Mass)": 200.2329,
+      "Radius (in Earth Radius)": 18.271,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-95",
+      "Mass (in Earth Mass)": 457.6752,
+      "Radius (in Earth Radius)": 13.787,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-97",
+      "Mass (in Earth Mass)": 419.52,
+      "Radius (in Earth Radius)": 12.67,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-98",
+      "Mass (in Earth Mass)": 263.79,
+      "Radius (in Earth Radius)": 12.33,
+      "cluster": 1
+    },
+    {
+      "Host Name": "WASP-99",
+      "Mass (in Earth Mass)": 883.53,
+      "Radius (in Earth Radius)": 12.33,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WD 1856+534",
+      "Mass (in Earth Mass)": 4386.054,
+      "Radius (in Earth Radius)": 10.4,
+      "cluster": 2
+    },
+    {
+      "Host Name": "WISEP J121756.91+162640.2 A",
+      "Mass (in Earth Mass)": 6992,
+      "Radius (in Earth Radius)": 10.468,
+      "cluster": 0
+    },
+    {
+      "Host Name": "WTS-1",
+      "Mass (in Earth Mass)": 1274.44,
+      "Radius (in Earth Radius)": 16.7,
+      "cluster": 3
+    },
+    {
+      "Host Name": "WTS-2",
+      "Mass (in Earth Mass)": 403.6441,
+      "Radius (in Earth Radius)": 15.278,
+      "cluster": 1
+    },
+    {
+      "Host Name": "Wendelstein-2",
+      "Mass (in Earth Mass)": 232.33373,
+      "Radius (in Earth Radius)": 12.993,
+      "cluster": 1
+    },
+    {
+      "Host Name": "XO-3",
+      "Mass (in Earth Mass)": 3747.06,
+      "Radius (in Earth Radius)": 13.641,
+      "cluster": 2
+    },
+    {
+      "Host Name": "XO-4",
+      "Mass (in Earth Mass)": 512.34196,
+      "Radius (in Earth Radius)": 15.02,
+      "cluster": 1
+    }
+   ]
