@@ -2,7 +2,7 @@ export default function Header() {
     return (
         <header>
             <h1>Which exoplanet type formed from k-means clustering is most likely to scatter bodies found in their planetary system? What is its implication?</h1>
-            <p>Our objective is to observe the relationship between the type of exoplanet and its Safronov number. Additionally, we wanted to determine the capabilities and implications of certain types of exoplanets ejecting planets out of their planetary system. All confirmed exoplanets from the NASA Exoplanet Archive were grouped into clusters using the k-means clustering algorithm. Following this, each exoplanet's Safronov number and the mean Safronov number for each type were calculated.
+            <p>Our objective was to observe the relationship between the type of exoplanet and its Safronov number. Additionally, we wanted to determine the capabilities and implications of certain types of exoplanets ejecting planets out of their planetary system. All confirmed exoplanets from the NASA Exoplanet Archive were grouped into clusters using the k-means clustering algorithm. Following this, each exoplanet's Safronov number and the mean Safronov number for each type were calculated.
             </p>
             <h2>Results</h2>
             <p>Gas Giant Type 2 exoplanets (and Gas giants overall) have higher capabilities to scatter bodies in their planetary system compared to other types based on their Safronov number. This can lead to the exoplanets ejecting planets out of their planetary system and result in rogue planets, which are hard to detect. A question to further delve into is what other properties of Gas Giant Type 2 exoplanets make them more capable of scattering.</p>
