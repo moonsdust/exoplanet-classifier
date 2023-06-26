@@ -8,7 +8,7 @@ We looked at the confirmed exoplanets in the NASA Exoplanet Archive as of June 1
 ## Technologies Used
 Python, scikit-learn, Pandas, Matplotlib, and NumPy was used to conduct the data analysis. React, Vite, JSX, CSS, and Plotly was used to build the data visualization dashboard.
 
-# References
+## References
 Catriona, H. M., & Veras, D. (2023). Binary asteroid scattering around white dwarfs. Monthly Notices of the Royal Astronomical Society, 520(3), 4009–4022, https://doi.org/10.1093/mnras/stad382
 
 Safronov, V. S. (1972). Evolution of the protoplanetary cloud and formation of the earth and the planets. Keter Publishing House.
