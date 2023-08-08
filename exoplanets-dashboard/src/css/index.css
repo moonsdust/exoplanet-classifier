@@ -26,7 +26,7 @@ h2 {
 }
 
 p, footer {
-  font-family: Inconsolata, monospace;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   font-size: 1.1em;
   font-weight: 500;
 }
