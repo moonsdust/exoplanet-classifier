@@ -78,7 +78,7 @@ export default function ScatterPlot() {
           title: '<b>Types of Exoplanets in the NASA Exoplanet Archive (As of June 10, 2023)</b>', 
           // paper_bgcolor: '#f8f9fa', 
           // plot_bgcolor: '#f8f9fa',
-          paper_bgcolor: 'rgba(0,0,0,0)1',
+          paper_bgcolor: 'rgba(0,0,0,0)',
           plot_bgcolor: 'rgba(0,0,0,0)',
           scattermode: 'group',
           xaxis: {title: 'Mass (in Earth Mass)', showgrid: false,},
