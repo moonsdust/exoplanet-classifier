@@ -18,13 +18,13 @@
 /* Text */
 
 h1 {
-  color: #114d4d;
+  color: #22223B;
   font-size: 2.3em;
   line-height: 1.1;
 }
 
 h2 {
-  color: #6e9987;
+  color: #4A4E69;
 }
 
 p, footer {
@@ -35,7 +35,7 @@ p, footer {
 
 a {
   font-weight: 500;
-  color: #114d4d;
+  color: #4A4E69;
   text-decoration: inherit;
 }
 a:hover {

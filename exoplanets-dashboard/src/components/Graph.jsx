@@ -71,7 +71,7 @@ export default function ScatterPlot() {
         layout={ {
           font: {
             family: 'Inter, system-ui, Avenir, Helvetica, Arial, sans-serif', 
-            color: '#6e9987'
+            color: '#4A4E69'
           },
           // width: 1200,
           // height: 500, 
