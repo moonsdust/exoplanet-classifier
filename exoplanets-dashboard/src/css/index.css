@@ -49,3 +49,7 @@ body {
   place-items: center;
   min-height: 90vh;
 }
+
+header {
+  width: 80%;
+}
