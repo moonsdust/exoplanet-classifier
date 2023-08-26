@@ -34,7 +34,7 @@ p, footer {
 
 a {
   font-weight: 500;
-  color: #6e9987;
+  color: #114d4d;
   text-decoration: inherit;
 }
 a:hover {
@@ -46,10 +46,8 @@ a:hover {
 body {
   margin: 0;
   display: flex;
+  flex-direction: column;
+  align-items: center;
   place-items: center;
   min-height: 90vh;
-}
-
-header {
-  width: 80%;
 }
