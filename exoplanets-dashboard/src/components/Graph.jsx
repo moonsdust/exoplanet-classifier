@@ -73,8 +73,8 @@ export default function ScatterPlot() {
             family: 'Inter, system-ui, Avenir, Helvetica, Arial, sans-serif', 
             color: '#6e9987'
           },
-          // width: 1200,
-          // height: 500, 
+          width: 1200,
+          height: 500, 
           title: '<b>Types of Exoplanets in the NASA Exoplanet Archive (As of June 10, 2023)</b>', 
           paper_bgcolor: 'rgba(0,0,0,0)',
           plot_bgcolor: 'rgba(0,0,0,0)',
