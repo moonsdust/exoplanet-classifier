@@ -71,13 +71,11 @@ export default function ScatterPlot() {
         layout={ {
           font: {
             family: 'Inter, system-ui, Avenir, Helvetica, Arial, sans-serif', 
-            color: '#4A4E69'
+            color: '#6e9987'
           },
           // width: 1200,
           // height: 500, 
           title: '<b>Types of Exoplanets in the NASA Exoplanet Archive (As of June 10, 2023)</b>', 
-          // paper_bgcolor: '#f8f9fa', 
-          // plot_bgcolor: '#f8f9fa',
           paper_bgcolor: 'rgba(0,0,0,0)',
           plot_bgcolor: 'rgba(0,0,0,0)',
           scattermode: 'group',
