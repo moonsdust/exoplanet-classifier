@@ -17,6 +17,10 @@
 
 /* Text */
 
+h1, h2{
+  font-family: Inter, Helvetica, Arial, system-ui,  Avenir, sans-serif;
+}
+
 h1 {
   color: #114d4d;
   font-size: 2.3em;
